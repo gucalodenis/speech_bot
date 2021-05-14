@@ -140,3 +140,5 @@ cython_debug/
 data/
 *.mp3
 *.ogg
+
+.vscode/
